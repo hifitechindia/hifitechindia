@@ -50,13 +50,9 @@ Here are some ideas to get you started:
 </div>
 
 ## 🏆 GitHub Trophies
-<img width="100%" align="middle" src="https://github-profile-trophy.vercel.app/?username=hifitechindia&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
-
 
 ## GitHub Stats 🌟
 
-![LiquidX's github stats](https://github-readme-stats.vercel.app/api?username=hifitechindia&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hifitechindia&layout=compact)](https://github.com/hifitechindia/github-readme-stats)
 ![counter](https://komarev.com/ghpvc/?username=hifitechindia&style=flat-square)
 
 [website]: https://hifitechindia.com
